@@ -3,3 +3,7 @@ more files into a branch
 that I just created and
 checked out. Now moving on
 to step 10.
+Now on step 14, editing
+this file because I need
+to edit and commit a few
+changes within the branch.

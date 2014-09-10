@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-	return;
+	int y = 3;
+	return y;
 }
